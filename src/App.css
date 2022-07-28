@@ -1,0 +1,56 @@
+.squareOrange
+{
+  background-color: orange;
+  font-size: 40px;
+  height: 140px;
+  width: 140px;
+  color: white;
+  text-align: center;
+}
+.square
+{
+  background-color: rebeccapurple;
+  font-size: 40px;
+  height: 140px;
+  width: 140px;
+  color: white;
+  text-align: center;
+}
+.squareContainer
+{
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  gap: 2rem;
+  justify-content: center;
+  margin-top: 20px;
+} 
+
+p
+{
+  text-align: center;
+}
+
+.container
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+  margin: 0 60vh;
+  width: 100vh;
+}
+
+
+.actionBtn
+{
+  background-color: skyblue;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-right: 10px;
+  margin-left: 40px;
+}
+
+aside{
+  margin-top: -180px;
+}
